@@ -11,6 +11,8 @@ class Patient
     @@all
   end
 
+  # def new_appointment
+  #   appointment = Appointment.new()
 
 
 end
