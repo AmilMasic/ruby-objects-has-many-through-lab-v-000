@@ -27,7 +27,7 @@ class Artist
   end
 
   def genres
-    song.genre
+    artist.genre
   end
 
 end
